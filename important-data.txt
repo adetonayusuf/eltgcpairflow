@@ -1,0 +1,7 @@
+project_id = 'elt-airflow-gcp'
+
+airflow credentials - Login with username: admin  password: y5hZdv8wQf7HBeWW
+
+dags_folder = /home/yusufkit5/airflow/dags
+
+bucket id = global-health-bucket-data
